@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+I'm Sono! 
+- You can find out more about me [here](www.sonoshah.com).
+- 📫: sonoshah [@] gmail.
+
 <!--
 **sonoshah/sonoshah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
